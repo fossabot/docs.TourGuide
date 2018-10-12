@@ -5,6 +5,7 @@
 [![Documentation](https://img.shields.io/readthedocs/fiwaretourguide.svg)](https://fiwaretourguide.rtfd.io)
 [![Docker](https://img.shields.io/docker/pulls/fiware/tutorials.tourguide-app.svg)](https://hub.docker.com/r/fiware/tutorials.tourguide-app/)
 [![Support badge]( https://img.shields.io/badge/support-askbot-yellowgreen.svg)](http://ask.fiware.org)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjason-fox%2Fdocs.TourGuide.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjason-fox%2Fdocs.TourGuide?ref=badge_shield)
 
 This repository stores all the content of the ["Quick FIWARE Tour Guide"](http://developer.fiware.org) for developers.
 
@@ -21,3 +22,5 @@ Please have a look at the [FIWARE Tour Guide Application](https://github.com/Fiw
 ## License
 
 [CC-BY-4.0](LICENSE) - FIWARE Foundation e.V.
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjason-fox%2Fdocs.TourGuide.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjason-fox%2Fdocs.TourGuide?ref=badge_large)
